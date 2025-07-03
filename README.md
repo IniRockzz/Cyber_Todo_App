@@ -21,8 +21,8 @@ Manage your tasks like a pro hacker in a world of green code rain and neon accen
 ---
 
 ## 💻 Screenshots
+![Screenshot 2025-07-03 234352](https://github.com/user-attachments/assets/06cfdaf7-2c71-4dab-b253-b7ef20382d68)
 
-![image](https://github.com/user-attachments/assets/8121ab13-cd18-4ad8-b630-ff367e7e24f1)
 ![image](https://github.com/user-attachments/assets/1624f0b1-1eb4-4315-8284-9e39eb883550)
 ![image](https://github.com/user-attachments/assets/181549e6-ef18-4cd5-99b4-c5cbfc87be9a)
 ![image](https://github.com/user-attachments/assets/70720f56-05f0-460e-82fb-83a7823cf8a7)
